@@ -24,3 +24,7 @@
 ### Dependence on pretrained model
 
 - Pretrained models biases from their training data, limt creativity. They may also struggle with uncommon or very specific prompts outside their training distribution.
+
+## Google Colab Link
+
+https://colab.research.google.com/drive/1-dQvc1tLo_ajOxnPXVmqqCywiB1GrZTz?usp=sharing
