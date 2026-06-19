@@ -27,7 +27,8 @@
 
 ## Results
 
-![Result](results/face_20260619_223109_738656.jpg))
+![Result](results/result6.png)
+
 
 ## Google Colab Link
 
