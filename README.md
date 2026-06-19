@@ -25,6 +25,10 @@
 
 - Pretrained models biases from their training data, limt creativity. They may also struggle with uncommon or very specific prompts outside their training distribution.
 
+## Results
+
+![Result](results/face_20260619_223109_738656.jpg))
+
 ## Google Colab Link
 
 https://colab.research.google.com/drive/1-dQvc1tLo_ajOxnPXVmqqCywiB1GrZTz?usp=sharing
