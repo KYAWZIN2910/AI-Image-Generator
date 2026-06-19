@@ -15,15 +15,15 @@
 
 ### GPU Resources
 
-- Stable Diffusion needs a powerful GPU. On mid-tier GPUs, performance slows signifiacntly with longer generation times (1-2 Mins)
+- Stable Diffusion needs a powerful GPU. On mid-tier GPUs, performance slows significantly with longer generation times (1-2 Mins)
 
 ### Controlling fine-grained details
 
-- Since the model generates images form a textual prompt using learned representatins, controlling precise pixel-level detail or specific small objects is challenging.
+- Since the model generates images from a textual prompt using learned representations, controlling precise pixel-level detail or specific small objects is challenging.
 
 ### Dependence on pretrained model
 
-- Pretrained models biases from their training data, limt creativity. They may also struggle with uncommon or very specific prompts outside their training distribution.
+- Pretrained models biases from their training data, limit creativity. They may also struggle with uncommon or very specific prompts outside their training distribution.
 
 ## Results
 
