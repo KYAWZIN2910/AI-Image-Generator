@@ -11,6 +11,14 @@
 - PyTorch
 - Google Colab
 
+## Features
+
+- Generate images from text prompts
+- Use pretrained Stable Diffusion models from Hugging Face
+- Support GPU acceleration in Google Colab
+- Experiment with inference steps, image size, and multiple outputs
+- Save generated images as result files
+
 ## Challenges and Limitations
 
 ### GPU Resources
